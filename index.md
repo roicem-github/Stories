@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+# Stories
+
+## Welcome to my Home Page!!!
+
+Please feel free to follow and add comments/ suggestions
+
+### Birch Walk
 
 You can use the [editor on GitHub](https://github.com/roicem-github/Stories/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
